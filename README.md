@@ -2,7 +2,7 @@
 👾 Hey I'll Accept telegram join requests. Easy to use and simple.
 
 ## 🚀 Demo Bot
-- [@SDAutoApproveBot](https://t.me/SDAutoApproveBot)
+- [@DAAprrovebot](https://t.me/DAAprrovebot)
 
 <h2>〽️ Deploy Me </h2> 
   
@@ -18,14 +18,14 @@
   
 <details><summary>📌 Deploy to Okteto </summary>
   
-[![Deploy on Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com/deploy?repository=https://github.com/ImDenuwan/Auto-Approve-Bot/)
+[![Deploy on Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com/deploy?repository=https://github.com/Darkksoul/autobot/)
 </details>
 
 <details><summary>📌 Deploy to VPS/Local </summary>
 
 
   ```ssh
-  git clone https://github.com/ImDenuwan/Auto-Approve-Bot
+  git clone https://github.com/Darkksoul/autobot
   pip3 install -r requirements.txt
   # fill config.py vars
   python3 bot.py
